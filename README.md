@@ -100,3 +100,19 @@ Add cross-validation and performance metrics
 Kaggle for providing the Dogs vs Cats dataset
 Open-source Python and ML community
 If you find this project useful, feel free to star the repository!
+
+## 👤 Author
+
+**Ashwin Vincent Koonissery**
+
+GitHub: [https://github.com/ashwin8332](https://github.com/ashwin8332)
+
+---
+
+## 📜 License
+
+This project is intended for **educational and research purposes**. Please follow the dataset’s original license terms when using it for commercial applications.
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
